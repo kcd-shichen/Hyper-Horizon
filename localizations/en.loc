@@ -1,0 +1,10 @@
+{
+	"SELECT % @gMUTATION": "SELECT @g% @yM@wU@bT@wA@gT@wI@rO@wN",
+    "SELECT % @gMUTATIONS": "SELECT @r% @yM@wU@bT@wA@gT@wI@rO@wN@yS",
+	"INSTALL % @gUPDATE": "INSTALL @g% @bUPDATE",
+    "INSTALL % @gUPDATES@s#DON'T TURN OFF THE ROBOT": "INSTALL @r% @yU@wP@gD@wA@rT@wE@bS@s#DON'T @wTURN OFF@s THE ROBOT",
+    "RESET CONTROLS": "RESET CONTROLS!!",
+    "BIG": "@yROCKETS@s @wATTACK@s",
+    "DOG": "@wBIG DOG@s",
+    "GUITAR": "OVEN AXE"
+}
