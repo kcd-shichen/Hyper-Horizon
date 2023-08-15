@@ -3,4 +3,5 @@ Hyper Horizon is a ntm resourcepack for Nuclear Throne Mobile.It made by ShiChen
 
 # Community
 [Bilibili](https://space.bilibili.com/420780210?share_medium=android&share_source=copy_link&bbid=XUB3662B546892C3E3BC435CA216F492A635D&ts=1692070585859)
+
 Discord ID:#7734
