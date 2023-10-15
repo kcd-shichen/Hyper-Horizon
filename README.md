@@ -1,6 +1,7 @@
 # Hyper-Horizon
 
-[<img src="icon.png" 
+[<h1 align="center">
+<img src="icon.png" 
      alt="icon" 
      height="256">](icon.png)
 
