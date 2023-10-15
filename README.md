@@ -6,7 +6,7 @@ It made by ShiChen, some of it comes from other credits,they are integrated with
 
 # Applicable version
 
-Nuclear Throne Mobile 2602 [Download](https://toncho.itch.io/nuclear-throne-mobile)
+Nuclear Throne Mobile 2602
 
 # Others
 Myspace Page
