@@ -3,7 +3,7 @@
 [<h1 align="center">
 <img src="icon.png" 
      alt="icon" 
-     height="256">](icon.png)
+     height="256"></h1>](icon.png)
 
 Hyper Horizon is a ntm resourcepack for [Nuclear Throne Mobile](https://toncho.itch.io/nuclear-throne-mobile).
 
