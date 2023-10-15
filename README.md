@@ -2,7 +2,7 @@
 
 Hyper Horizon is a ntm resourcepack for [Nuclear Throne Mobile](https://toncho.itch.io/nuclear-throne-mobile).
 
-It made by ShiChen, some of it comes from other credits,they are integrated with my existing resourcepack.Thanks them a lot!Hope you can enjoy it !!
+It made by ShiChen, some of it comes from other credits,they are integrated with my existing resourcepack.Thanks them a lot! Hope you can enjoy it !!
 
 # Others
 Myspace Page
