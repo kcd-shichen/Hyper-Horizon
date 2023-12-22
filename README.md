@@ -11,7 +11,7 @@ Hyper Horizon is a NTM resourcepack for [Nuclear Throne Mobile](https://toncho.i
 
 ## Applicable Version
 
-Nuclear Throne Mobile 2615
+Nuclear Throne Mobile 2616
 
 # Others
 Myspace Page
