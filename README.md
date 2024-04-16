@@ -16,6 +16,6 @@ Nuclear Throne Mobile b2.6.1 build2616
 # Others
 Myspace Page
 
-●[Bilibili](https://space.bilibili.com/420780210)
+[![Bilibili](https://img.shields.io/badge/%40SHICHEN-FF8698?style=flat-square&logo=bilibili&logoColor=FFFFFF&labelColor=FF6699)](https://space.bilibili.com/420780210)
 
 ●Discord ID:#7734
