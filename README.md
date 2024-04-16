@@ -11,7 +11,7 @@ Hyper Horizon is a NTM resourcepack for [Nuclear Throne Mobile](https://toncho.i
 
 ## Applicable Version
 
-![Supported Version](https://img.shields.io/badge/NTM b2.6.1_build2616-505DDC?label=supported_game_version&logo=github)
+![Supported_Version](https://img.shields.io/badge/NTM b2.6.1_build2616-505DDC?label=supported_game_version&logo=github)
 
 
 
