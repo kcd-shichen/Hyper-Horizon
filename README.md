@@ -16,6 +16,6 @@ Nuclear Throne Mobile b2.6.1 build2616
 # Others
 Myspace Page
 
-[![Bilibili](https://img.shields.io/badge/%40SHICHEN-FF8698?style=flat-square&logo=bilibili&logoColor=FFFFFF&labelColor=FF6699)](https://space.bilibili.com/420780210)
+[![Bilibili](https://img.shields.io/badge/%40ShiChen-FF8698?style=flat-square&logo=bilibili&logoColor=FFFFFF&labelColor=FF6699)](https://space.bilibili.com/420780210)
 
-●Discord ID:#7734
+[![Discord](https://img.shields.io/badge/%40ShiChen-575757?style=flat-square&logo=discord&logoColor=FFFFFF&labelColor=505DDC)](https://discord.com/%E5%8A%A0%E6%88%91%E5%A5%BD%E5%8F%8B%EF%BC%8C%E4%B8%80%E8%B5%B7%E8%81%8A%E5%A4%A9%E5%90%A7%EF%BC%81%E6%88%91%E7%9A%84%E7%94%A8%E6%88%B7%E5%90%8D%E6%98%AFshi_chen%E3%80%82) ID:#7734
