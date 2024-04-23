@@ -1,4 +1,4 @@
-l# Hyper-Horizon
+### Hyper-Horizon
 
 [<h1 align="center">
 <img src="icon.png" 
