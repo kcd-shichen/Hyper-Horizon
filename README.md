@@ -15,7 +15,7 @@ Hyper Horizon is a NTM resourcepack for [Nuclear Throne Mobile](https://toncho.i
 
 
 
-### Others
+### Profile Page
 
 [![Bilibili](https://img.shields.io/badge/%40ShiChen-B0466A?style=flat-square&logo=bilibili&logoColor=FFFFFF&labelColor=FF6699)](https://space.bilibili.com/420780210)
 
