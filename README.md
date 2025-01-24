@@ -17,6 +17,6 @@
 
 ### Profile Page
 
-[![Bilibili](https://img.shields.io/badge/%40X TOK-B0466A?style=flat-square&logo=bilibili&logoColor=FFFFFF&labelColor=FF6699)](https://space.bilibili.com/420780210)
+[![Bilibili](https://img.shields.io/badge/%40X_TOK-B0466A?style=flat-square&logo=bilibili&logoColor=FFFFFF&labelColor=FF6699)](https://space.bilibili.com/420780210)
 
 [![Discord](https://img.shields.io/badge/%40KCD_shichen-303885?style=flat-square&logo=discord&logoColor=FFFFFF&labelColor=505DDC)](https://discordapp.com/users/1030881575912615946)
